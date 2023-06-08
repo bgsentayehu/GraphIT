@@ -1,5 +1,5 @@
 # GraphIT
-GraphIT is a server designed using Node.js for the front end and Pandas, Matplotlib, and Python for the backend. It allows you to generate graphs from an Excel sheet. This README.md file provides instructions on how to set up and use the GraphIT project.
+GraphIT is a server designed using Node.js for the frontend and Pandas, Matplotlib, and Python for the backend. It allows you to generate graphs from an Excel sheet. This README.md file provides instructions on how to set up and use the GraphIT project.
 # Installation 
 1) Download the project ZIP file 
 2) Extract the contents of the ZIP file to a directory of your choice.
