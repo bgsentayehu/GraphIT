@@ -9,10 +9,9 @@ GraphIT is a server designed using Node.js for the frontend and Pandas, Matplotl
 6) Navigate to the directory where you extracted the ZIP file using the cd command.
 7) Run the following command to install the necessary dependencies: npm install formidable
 # Usage
-In the terminal, while still in the project directory, run the following command to start the server on port 8080: node Webpage.js
-
-Open any web browser and enter the following URL: http://localhost:8080/
-The GraphIt webpage will be displayed.
+* In the terminal, while still in the project directory, run the following command to start the server on port 8080: node Webpage.js
+* Open any web browser and enter the following URL: http://localhost:8080/
+* The GraphIt webpage will be displayed.
 To generate a graph, follow these steps:
 1) Fill in the necessary columns in the input fields. The column names must match the columns in the Excel sheet you want to graph.
 2) Select the sample Excel sheet from the provided folder.(Or any excel sheet but must be in the GraphIT folder)
