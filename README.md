@@ -9,7 +9,7 @@ GraphIT is a server designed using Node.js for the frontend and Pandas, Matplotl
 6) Navigate to the directory where you extracted the ZIP file using the cd command.
 7) Run the following command to install the necessary dependencies: npm install formidable
 # Usage
-In the terminal, while still in the project directory, run the following command to start the server on port 8080: node Webpage.js
+In the terminal, while still in the project directory, run the following command to start the server on port 8080: node Webpage.js.
 Open any web browser and enter the following URL: http://localhost:8080/
 The GraphIt webpage will be displayed.
 To generate a graph, follow these steps:
