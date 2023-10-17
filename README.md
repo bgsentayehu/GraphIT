@@ -15,7 +15,7 @@ GraphIT is a server designed using Node.js for the frontend and Pandas, Matplotl
 * The GraphIt webpage will be displayed.
 - To generate a graph, follow these steps:
 1) Fill in the necessary columns in the input fields. The column names must match the columns in the Excel sheet you want to graph.
-2) Select the sample Excel sheet from the provided folder.(Or any excel sheet but must be in the GraphIT folder)
+2) Select the sample Excel sheet from the provided folder called cleveland.(Or any excel sheet but must be in the GraphIT folder)
 3) Choose the type of graph you want to generate.
 4) Click on the "Upload" button.
 5) A new page will open, displaying the generated graph.
