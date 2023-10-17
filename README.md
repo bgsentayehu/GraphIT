@@ -7,7 +7,7 @@ GraphIT is a server designed using Node.js for the frontend and Pandas, Matplotl
 4) Open a code editor like Visual Studio Code (VS Code).
 5) Open a terminal within the code editor.
 6) Navigate to the directory where you extracted the ZIP file using the cd command.
-7) Navigate to the folder by typing: cd GraphIT-master on terminal
+7) Navigate to the folder by typing: cd GraphIT-master, on terminal
 8) Run the following command to install the necessary dependencies: npm install formidable
 # Usage
 * In the terminal, while still in the project directory, run the following command to start the server on port 8080: node Webpage.js
